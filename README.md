@@ -256,27 +256,3 @@ Gruppen talades vid varje kväll vid 18.00 för att gå igenom vad alla utfört 
 
 För att kommunicera användes Discord och det var även denna platform där de uppdaterade versionerna av filerna överfördes innan repositaryt på gitlab sattes upp. Då vi var klara med alla uppgifter innan repositarit lades upp på gitlab så användes inte denna platform till någon större grad.
 Gruppen använde sig flitigt av visual studios plugin live share. Detta för att programmera tillsammans i realtid medans vi diskuterade via Discord eller på plats.   
-
-### Tabell där x markerar delaktighet i uppgifterna:
-| Uppgifter:   | Del 1| Del 2 Bst  | Del 2 Hash | Del 3  | Del 4 | Del 5 | 
-|:-------------|:----:|:----------:|:----------:|:------:|:-----:|:-----:|  
-| Robin        |      |            |        X   |    X   |   X   |   X   |
-| Eric         |  X   |     X      |            |    X   |   X   |   X   |
-| Edvinas      |      |     X      |            |    X   |       |       |
-| Erik         |      |            |        X   |    X   |   X   |   X   |
-
-### Tabell där x markerar delaktighet i rapportskrivandet: 
-| Rapport:     | Intro| Del 1| Del 2 Bst| Del 2 Hash| Del 3 | Del 4 | Del 5  | Slutsats |
-|:-------------|:----:|:----:|:--------:|:---------:|:-----:|:-----:|:------:|:--------:|
-| Robin        |  X   |      |          |           |   X   |   X   |   X    |   X      | 
-| Eric         |      |   X  |    X     |           |       |       |   X    |   X      |
-| Edvinas      |      |      |          |           |       |       |        |          |
-| Erik         |      |      |          |    X      |   X   |   X   |   X    |   X      |
-### Tabell tid spenderad på uppgifterna:
-| Tid:    | Del 1| Del 2 Bst  | Del 2 Hash | Del 3  | Del 4 | Del 5 |Rapport| 
-|:--------|:----:|:----------:|:----------:|:------:|:-----:|:-----:|:-----:|  
-| Robin   |      |            |      3H    |   1H   |   8H  |   6H  |   7H  |
-| Eric    |  1H  |     3H     |            |   1H   |   12H |   6H  |   7H  |
-| Edvinas |      |     3H     |            |   1H   |       |       |       |
-| Erik    |      |            |      3H    |   1H   |   8H  |   6H  |   8H  |
-| **Total:**|1H  |     6H     |      6H    |   4H   |   28H |   18H |  22H  |
